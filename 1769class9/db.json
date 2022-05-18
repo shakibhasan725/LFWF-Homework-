@@ -1,0 +1,67 @@
+{
+    "student" : [
+        {
+            "name": "Shakib Hasan",
+            "class": 5,
+            "roll": 1,
+            "location": "bogura",
+           " age": 10
+         },
+        {
+            "name": "Rakib Hasan",
+            "class": 5,
+            "roll": 2,
+            "location": "bogura",
+            "age": 8
+         },
+        {
+            "name": "Shihab Hasan",
+           " class": 5,
+            "roll": 3,
+            "location": "bogura",
+            "age": 6
+         },
+        {
+            "name": "Sabbir Hasan",
+            "class": 5,
+            "roll": 4,
+            "location": "bogura",
+            "age": 6
+        },
+        {
+            "name": "Sumaiya",
+            "class": 5,
+            "roll": 5,
+            "location": "sylhet",
+            "age": 10
+      
+         }
+    ],
+    "teachers" : [
+        {
+            "name" : "Md. Mahtab Hossin",
+            "age" : 60,
+            "skill" : "Head Teacher"
+        },
+        {
+            "name" : "Md. Rashid Hossin",
+            "age" : 50,
+            "skill" : "Assistant Teacher"
+        },
+        {
+            "name" : "Md. Bayjid Hossin",
+            "age" : 40,
+            "skill" : "Assistant Teacher"
+        },
+        {
+            "name" : "Md. khaibar Hossin",
+            "age" : 55,
+            "skill" : "Assistant Teacher"
+        },
+        {
+            "name" : "Md. Tazul Hossin",
+            "age" : 35,
+            "skill" : "Assistant Teacher"
+        }
+    ]
+}
