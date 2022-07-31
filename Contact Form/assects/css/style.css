@@ -1,0 +1,19 @@
+button{
+    position: relative;
+    left: 200px;
+}
+
+.loading{
+    position: absolute;
+    height: 450px;
+    display: none;
+}
+
+.loading_img{
+    position: absolute;
+    height: 340px;
+    top: 50px;
+    background-color: transparent;
+    z-index: 1;
+}
+
